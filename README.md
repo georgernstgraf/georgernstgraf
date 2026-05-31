@@ -4,11 +4,14 @@ Teacher for programming at [Die-Spengergasse](https://github.com/Die-Spengergass
 
 ## Current Projects
 
-### 🧘 [zazentimer](https://github.com/georgernstgraf/zazentimer)
-Meditation timer app — focus on simplicity and mindfulness.
+### 🎙️ [polished-recognition](https://github.com/georgernstgraf/polished-recognition)
+Voice input for any Android keyboard — press the mic, speak, and your words appear cleaned up and translated.
 
 ### 🧩 [opencode-helpers](https://github.com/georgernstgraf/opencode-helpers)
 Reusable skills, commands, and knowledge persistence patterns for opencode AI agents.
+
+### 🧘 [zazentimer](https://github.com/georgernstgraf/zazentimer)
+Meditation timer app — focus on simplicity and mindfulness.
 
 ### 🎙️ [aitranscribe](https://github.com/georgernstgraf/aitranscribe) + [aitranscribe-android](https://github.com/georgernstgraf/aitranscribe-android)
 Speech-to-text using Groq's Whisper API — desktop (Python) and Android.
