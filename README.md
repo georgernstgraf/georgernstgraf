@@ -16,6 +16,10 @@ Meditation timer app — focus on simplicity and mindfulness.
 ### 🎙️ [aitranscribe](https://github.com/georgernstgraf/aitranscribe) + [aitranscribe-android](https://github.com/georgernstgraf/aitranscribe-android)
 Speech-to-text using Groq's Whisper API — desktop (Python) and Android.
 
+### 🔧 [webuntis-cli](https://github.com/georgernstgraf/webuntis-cli)
+WebUntis from the terminal — automate lesson-topic (Lehrstoff) entry, rosters
+and absences; reverse-engineered API + CDP recorder.
+
 ## Teaching Repositories
 
 | Subject | Repos | Description |
